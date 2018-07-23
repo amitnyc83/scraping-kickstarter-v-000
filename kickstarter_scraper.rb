@@ -33,6 +33,3 @@ projects
 
   # write your code here
 end
-
-
-create_project_hash
